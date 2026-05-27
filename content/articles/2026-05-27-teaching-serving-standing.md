@@ -245,3 +245,39 @@ And again, thank you so very much!
 - Pray for health, safety, provision, and wisdom for our family as we continue
   to live and minister in the midst of war.
 - Pray for peace and liberty in Ukraine.
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/kids-facetime-ipad_iaxtnd" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/ice-cream-monster_h36qmd" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/gne-gift-bags_xvswoc" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/ugo-aid-boxes_zaq1k6" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/zhytomyr-missile-strike_s2xrwa" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/crowd-good-and-evil-books_vjllu7" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/nathan-preaching_ny0oep" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/joshua-romans-class_fpphg8" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/josh-rebekah-slovakia_uzlrxy" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/mykolayiv-attack_wsexkq" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/joshua-preaching_yj0rjr" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/girls-singing_gzlkn0" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/joshua-oleks-alla_hthpat" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/joshua-village-books_eulzne" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/josh-kels-winter-run_syjneb" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/krakow-airport_qwdonl" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/romans-site_iaurho" width="768" caption="CAPTION" />
+
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/abbie-axel_nsa1kt" height="768" caption="CAPTION" />
