@@ -24,7 +24,10 @@ caption: >
 tags:
   - newsletter
   - ministry
-  - ukraine
+  - ugo
+  - good-and-evil
+  - family
+  - photos
 ---
 
 January 16, 2026 — 8:50 am.
@@ -73,7 +76,7 @@ Anytime our family is out and about at 9:00 am, we stop too. We stand in silence
 and solidarity with our Ukrainian friends, honoring their sacrifices and praying
 for an end to this terrible war.
 
-<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/josh-rebekah-slovakia_uzlrxy" width="768" caption="Rebekah and I had a fun trip visiting friends in Slovakia and getting her new Ukrainian visa in Krakow. I'm pleased to report that her residency process was completed successfully." />
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/josh-rebekah-slovakia_uzlrxy" width="768" caption="Rebekah and I had a fun trip — visiting friends in Slovakia and picking up her new Ukrainian visa in Krakow. I’m pleased to report her residency process is now complete." />
 
 ## Romans Course
 
@@ -91,7 +94,7 @@ school, I was glad to be asked to teach through the book for our congregation.
 We meet on the last Saturday of every month — our pastor teaches through
 Genesis, and I teach through Romans.
 
-<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/joshua-romans-class_fpphg8" width="768" caption="Teaching through the book of Romans at our church in Lviv has been a fantastic opportunity, and I'm excited about the potential ministry impact this course will have in the future." />
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/joshua-romans-class_fpphg8" width="768" caption="Teaching through the book of Romans at our church in Lviv has been a fantastic opportunity, and I’m excited about the impact this course could have down the road." />
 
 What makes this round exciting is how much further I can take the course with
 the tools now available to me. I’m filming in high-resolution video with clear
@@ -109,7 +112,7 @@ at my new
 
 <article-image publicId="OFReport/2026-05-27-teaching-serving-standing/romans-site_iaurho" width="600" />
 
-<article-callout content="Check out my new Discovering Romans course website!" :link="{ name: 'Discovering Romans', href: 'https://joshukraine.com/romans-course/' }" />
+<article-callout content="Check out my new _Discovering Romans_ course website!" :link="{ name: 'Discovering Romans', href: 'https://joshukraine.com/romans-course/' }" />
 
 ## UGO — 2025 Recap and 2026 Plans
 
@@ -134,7 +137,7 @@ organizations have stopped visiting in these later years of the war. Yet the
 needs remain dire, and russia has not let up on its attacks against the
 Ukrainian people.
 
-<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/joshua-village-books_eulzne" width="768" caption="After the Gospel message, Joshua introduces the Good and Evil book." />
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/joshua-village-books_eulzne" width="768" caption="After the Gospel message, Joshua introduces the _Good and Evil_ book." />
 
 <article-image publicId="OFReport/2026-05-27-teaching-serving-standing/joshua-preaching_yj0rjr" width="768" caption="Joshua preaches the Gospel at the meeting in Zhytomyr." />
 
@@ -193,7 +196,7 @@ people every single day. Nevertheless, Ukrainians are fighting valiantly for
 their freedom and independence — and, slowly but surely, we believe the tide is
 turning.
 
-<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/mykolayiv-attack_wsexkq" width="768" caption="This city administration building in Mykolaiv still bears the scars of a russian missile attack from early in the war. The entire city council perished in the strike except for one man." />
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/mykolayiv-attack_wsexkq" width="768" caption="This Mykolaiv city administration building still bears the scars of a russian missile attack from earlier in the war. The entire city council perished in the strike — all but one man." />
 
 On a brighter note, we want to reassure you that our family is safe. Power
 outages have been a real struggle these past couple of years, but God has
@@ -224,9 +227,9 @@ see what God has done in their lives, and we look forward to the days ahead as
 they begin a family of their own — serving the Lord and raising up a new
 generation to follow Christ.
 
-<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/abbie-axel_nsa1kt" height="768" caption="We are so excited to announce Abbie and Axel's engagement! 🥳 We will be flying back to Texas for the wedding on August 22nd. God is good! 🥰🙏🏻" />
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/abbie-axel_nsa1kt" height="768" caption="We are so excited to announce Abbie and Axel’s engagement! 🥳 We will be flying back to Texas for the wedding on August 22nd. God is good! 🥰🙏🏻" />
 
-<article-callout content="Check out their website! " :link="{ name: 'Abbie and Axel', href: 'https://jsua.co/abbie-axel' }" />
+<article-callout content="Visit their wedding site!" :link="{ name: 'Abbie and Axel', href: 'https://jsua.co/abbie-axel' }" />
 
 ## Kelsie’s Substack
 
@@ -238,7 +241,7 @@ though of course anyone is welcome to visit and have a look! We think you’ll
 enjoy the posts and photos, and Kelsie is excited to share more through this new
 channel in the months ahead.
 
-<article-callout content="Don't miss Kelsie's updates on her new Substack!" :link="{ name: 'Be of Good Courage', href: 'https://kelsiesteele.substack.com/' }" />
+<article-callout content="Don’t miss Kelsie’s updates on her new Substack!" :link="{ name: 'Be of Good Courage', href: 'https://kelsiesteele.substack.com/' }" />
 
 ## A Special Request to Our Donors ❤️
 
@@ -272,20 +275,20 @@ And again, thank you so very much!
 
 <article-callout content="Keep scrolling for more photos from our family and ministry!" />
 
-<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/gne-gift-bags_xvswoc" width="768" caption="One of Kelsie's ministry projects this year was a round of Christmas gift bags for friends, neighbors, and acquaintances in our area. Each bag contained a note from our family, a variety of hand-baked goodies, and a copy of Good and Evil in Ukrainian." />
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/gne-gift-bags_xvswoc" width="768" caption="One of Kelsie’s ministry projects this past Christmas was a batch of gift bags for friends, neighbors, and acquaintances in our area. Each bag contained a note from our family, a variety of homemade baked goodies, a Scripture magnet, and a copy of _Good and Evil_ in Ukrainian." />
 
 <article-image publicId="OFReport/2026-05-27-teaching-serving-standing/kids-facetime-ipad_iaxtnd" width="768" caption="Storytime with Baba (grandmother) over FaceTime! 🥰" />
 
-<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/krakow-airport_qwdonl" width="768" caption="Kelsie recently flew to the States for a brief visit with her parents. While we were in Krakow to take her to the airport, we took two of the kids to update their passports at the American consulate there. Missionary life is never dull!" />
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/krakow-airport_qwdonl" width="768" caption="Kelsie recently flew to the States for a brief visit with her parents. While we were in Krakow to see her off, we also brought two of the kids along to update their passports at the American consulate. Missionary life is never dull!" />
 
-<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/girls-singing_gzlkn0" width="768" caption="As our church has lost more and more men to the war effort, our family has stepped in to help fill in the gaps. One way we've been able to serve is through music. In this photo, Melissa, Rebekah, Lydia, and Hosanna sing a special on a Sunday morning." />
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/girls-singing_gzlkn0" width="768" caption="As our church has lost more and more men to the war effort, our family has stepped in to help fill in the gaps. One way we’ve been able to serve is through music. In this photo, Melissa, Rebekah, Lydia, and Hosanna sing a special on a Sunday morning." />
 
-<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/zhytomyr-missile-strike_s2xrwa" width="768" caption="Someone's home once stood here. Then the russians came with their missiles and destroyed everything." />
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/zhytomyr-missile-strike_s2xrwa" width="768" caption="Someone’s home once stood here. Then the russians came with their missiles and destroyed everything." />
 
 <article-image publicId="OFReport/2026-05-27-teaching-serving-standing/nathan-preaching_ny0oep" width="768" caption="Nathan preaches the Gospel at the meeting in Zhytomyr." />
 
-<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/joshua-oleks-alla_hthpat" width="768" caption="Our dear friends Oleksandr and Alla live with their six children in Zhytomyr, which is much closer to the front lines than we are in Lviv. Oleksandr is an active and faithful missionary, and he has been our primary guide and coordinator for the past two UGO projects." />
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/joshua-oleks-alla_hthpat" width="768" caption="Our dear friends, Oleksandr and Alla, live with their six children in Zhytomyr — much closer to the front lines than we are in Lviv. Oleksandr is a faithful missionary and has been our primary guide and coordinator for the past two UGO projects." />
 
-<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/josh-kels-winter-run_syjneb" width="768" caption="Kelsie and I still enjoy running together even when it snowing outside!" />
+<article-image publicId="OFReport/2026-05-27-teaching-serving-standing/josh-kels-winter-run_syjneb" width="768" caption="Kelsie and I still enjoy running together even when it’s snowing outside!" />
 
 <article-image publicId="OFReport/2026-05-27-teaching-serving-standing/ice-cream-monster_h36qmd" width="768" caption="Some of us get really excited about ice cream!" />
