@@ -7,7 +7,7 @@ const md = require('markdown-it')({
 const mila = require('markdown-it-link-attributes');
 
 md.use(mila, {
-  pattern: /^https?:\/\//,
+  matcher: (href) => /^https?:\/\//.test(href),
   attrs: {
     target: '_blank',
     rel: 'noopener noreferrer',
