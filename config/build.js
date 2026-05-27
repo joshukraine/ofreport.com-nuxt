@@ -23,7 +23,7 @@ export default {
       options: {
         mode: [Mode.VUE_COMPONENT],
         markdownIt: md.use(mila, {
-          pattern: /^https?:\/\//,
+          matcher: (href) => /^https?:\/\//.test(href),
           attrs: {
             target: '_blank',
             rel: 'noopener noreferrer',
