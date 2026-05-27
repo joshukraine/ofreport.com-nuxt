@@ -73,7 +73,7 @@ Anytime our family is out and about at 9:00 am, we stop too. We stand in silence
 and solidarity with our Ukrainian friends, honoring their sacrifices and praying
 for an end to this terrible war.
 
-## Romans Class
+## Romans Course
 
 I still remember the first time I heard Mike Pearl teach from the book of
 Romans. I was twelve, and my parents had brought me to a small Bible study at
