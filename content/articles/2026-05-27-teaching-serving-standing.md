@@ -5,14 +5,14 @@ author: 'Joshua Steele'
 cover: 'https://res.cloudinary.com/dnkvsijzu/image/upload/v1779824708/OFReport/2026-05-27-teaching-serving-standing/ofr-apr-may-cover_livdau'
 pdf: 'OFR-Apr-May-2026.pdf'
 preview: >
-  January 16, 2026 — 8:50 am. Once again, we were headed to the Polish border.
-  Rebekah would soon turn 18, and so it was time to visit the Ukrainian
-  consulate in Krakow to get her a visa. Anya, a Ukrainian friend, had come
-  along for the ride. The morning was crisp; the roads, thankfully, clear. As
-  the three of us sped toward the border, conversation lulled, and my mind began
-  to wander. I’d driven this route so often I could almost do it in my sleep.
-  Almost. No sleep now, though — stay awake. Eyes on the road. We clipped along
-  in our blue Ford van at a comfortable 100 kph (62 mph).
+  January 16, 2026 — 8:50 am. We were seated in our blue Ford van, headed once
+  again to the Polish border. Rebekah would soon turn 18, and so it was time to
+  visit the Ukrainian consulate in Krakow to get her a visa. Anya, a Ukrainian
+  friend, had come along for the ride. The morning was crisp; the roads,
+  thankfully, clear. As the three of us sped toward the border, conversation
+  lulled, and my mind began to wander. I’d driven this route so often I could
+  almost do it in my sleep. Almost. No sleep now, though — stay awake. Eyes on
+  the road. We clipped along at a comfortable 100 kph (62 mph).
 
   Suddenly, I snapped alert: 8:56 am. Four minutes left...
 caption: >
@@ -29,14 +29,14 @@ tags:
 
 January 16, 2026 — 8:50 am.
 
-Once again, we were headed to the Polish border. Rebekah would soon turn 18, and
-so it was time to visit the Ukrainian consulate in Krakow to get her a visa.
-Anya, a Ukrainian friend, had come along for the ride. The morning was crisp;
-the roads, thankfully, clear. As the three of us sped toward the border,
-conversation lulled, and my mind began to wander. I’d driven this route so often
-I could almost do it in my sleep. Almost. No sleep now, though — stay awake.
-Eyes on the road. We clipped along in our blue Ford van at a comfortable 100 kph
-(62 mph).
+We were seated in our blue Ford van, headed once again to the Polish border.
+Rebekah would soon turn 18, and so it was time to visit the Ukrainian consulate
+in Krakow to get her a visa. Anya, a Ukrainian friend, had come along for the
+ride. The morning was crisp; the roads, thankfully, clear. As the three of us
+sped toward the border, conversation lulled, and my mind began to wander. I’d
+driven this route so often I could almost do it in my sleep. Almost. No sleep
+now, though — stay awake. Eyes on the road. We clipped along at a comfortable
+100 kph (62 mph).
 
 <article-callout content="OFR-Apr-May-2026.pdf" :download="true" />
 
@@ -86,8 +86,8 @@ doctrinal framework of Romans but how to study the Scriptures for myself.
 I’ve had the chance to teach Romans many times since — both to individuals I was
 discipling and to larger audiences. So when our church recently started a Bible
 school, I was glad to be asked to teach through the book for our congregation.
-We meet on the last Saturday of every month — our pastor teaching through
-Genesis, and me through Romans.
+We meet on the last Saturday of every month — our pastor teaches through
+Genesis, and I teach through Romans.
 
 What makes this round exciting is how much further I can take the course with
 the tools now available to me. I’m filming in high-resolution video with clear
