@@ -108,7 +108,7 @@ Ukrainians and speaking their language. But more than anything, I long to see
 these precious people in heaven. To that end, I will continue laboring as long
 as God gives me breath.
 
-<article-callout content="Check out our collection of video updates shot during the trip!" :link="{ name: 'The November Project 2024', href: 'https://jsua.co/nov-proj-2024/index.html' }" />
+<article-callout content="Check out our collection of video updates shot during the trip!" :link="{ name: 'The November Project 2024', href: 'https://jsua.co/nov-proj-2024' }" />
 
 ## How You Can Pray
 
@@ -169,4 +169,4 @@ as God gives me breath.
 
 <article-image publicId="OFReport/2025-02-24-the-november-project/joshua-lady-good-evil-book_zwajny" width="768" caption="I don’t know her name, but I pray that one day it will be written in Heaven. The book she holds shows the way!" />
 
-<article-callout content="Don't forget to check out our collection of video updates shot during the trip!" :link="{ name: 'The November Project 2024', href: 'https://jsua.co/nov-proj-2024/index.html' }" />
+<article-callout content="Don't forget to check out our collection of video updates shot during the trip!" :link="{ name: 'The November Project 2024', href: 'https://jsua.co/nov-proj-2024' }" />
