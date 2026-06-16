@@ -40,7 +40,7 @@
     "dayjs": "1.11.13",
     "frontmatter-markdown-loader": "^3.6.0",
     "lodash.countby": "^4.6.0",
-    "markdown-it": "13.0.2",
+    "markdown-it": "14.2.0",
     "markdown-it-link-attributes": "^4.0.0",
     "markdown-to-json": "^0.5.1",
     "nuxt": "2.18.1",
