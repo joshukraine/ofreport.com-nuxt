@@ -4,6 +4,13 @@
 
 > Our family blog, documenting our work in Ukraine
 
+> [!NOTE]
+> **OFReport.com has been rebuilt in [Hugo](https://gohugo.io/).** As of June 2026,
+> the live site is served from a new codebase. This repository is the original
+> **Nuxt.js 2** version, preserved for historical reference and kept archived (read-only).
+>
+> 👉 **New repository: [joshukraine/ofreport.com](https://github.com/joshukraine/ofreport.com)**
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/69a46dc9-827c-4b08-8b75-0164feb31dce/deploy-status)](https://app.netlify.com/sites/ofreport/deploys)
 
 ## Overview
@@ -142,7 +149,7 @@ Copyright © 2003–2026 Joshua and Kelsie Steele. Software is licensed under [M
 [fml]: https://hmsk.github.io/frontmatter-markdown-loader/
 [hmr]: https://webpack.js.org/concepts/hot-module-replacement/
 [http-server]: https://yarnpkg.com/en/package/http-server
-[license]: https://github.com/joshukraine/ofreport.com/blob/master/LICENSE
+[license]: https://github.com/joshukraine/ofreport.com-nuxt/blob/master/LICENSE
 [markdown-it]: https://yarnpkg.com/en/package/markdown-it
 [husky]: https://typicode.github.io/husky/
 [lint-staged]: https://github.com/lint-staged/lint-staged
